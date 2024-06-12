@@ -1,5 +1,9 @@
 # WinToLin
 
+For setup:
+  picom
+  sxhkd
+
 Programs to install:
   1. zip
   2. cmake
