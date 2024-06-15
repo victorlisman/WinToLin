@@ -1,8 +1,7 @@
 # WinToLin
 
-For setup:
-  picom
-  sxhkd
+alacritty, yay(base-devel), dmenu, dunst, git, htop, neovim, picom, ranger, sddm,
+
 
 Programs to install:
   1. zip
