@@ -18,3 +18,4 @@ Programs to install:
   12. bottles/lutris for win apps
   13. vscode
   14. browser: firefox/brave
+  15. notes: obsidian
